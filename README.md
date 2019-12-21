@@ -1,3 +1,7 @@
+# This is patched version of branch 3-stable;
+## the only difference - restored authentication_token functionality
+# Please, don't use this repository, it may be deleted at any time
+
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
 By [Plataformatec](http://plataformatec.com.br/).
